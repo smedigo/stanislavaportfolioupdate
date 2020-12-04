@@ -25,3 +25,7 @@ body {
     flex-wrap: wrap;
     float: center;
 }
+
+.h100 {
+     height: 100px;
+}
